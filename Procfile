@@ -1,1 +1,1 @@
-worker: python btc_monitor_bot.py
+worker: python btc-monitor-bot.py
